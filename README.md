@@ -20,14 +20,14 @@
 * Raised $18M
 * Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
 * Create account with Email and verify your Email
-* Invite Code: `0dhx2k`
+* Invite Code: `o487jmdc`
 
 #
 
 ### Gradient
 * Raised an undisclosed fund by Big VCs: multicoincap, PanteraCapital ,and sequoia
 * Phase 1 Testnet Orchastrator is Exstension Node
-* Create account [here](https://app.gradient.network/signup?code=BY9XWK)
+* Create account [here](https://app.gradient.network/signup?code=JMZB3K)
 * Install [Extension](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
 * Gradient might be incompatible with most of VPS IPs
 
